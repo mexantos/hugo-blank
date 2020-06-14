@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "/"
 languageCode = "en-us"
 title = "Mexantos's blog"
 # Define how many pages appear per site
